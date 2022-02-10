@@ -1,0 +1,14 @@
+Code And Implemented by Mohsen HajiKarimian
+MohsenHajikarimian@Gmail.com
+https://www.linkedin.com/in/mohsenhajikarimian/
+
+Packages:
+    pip install numpy
+    pip install pandas
+    pip install -U scikit-learn
+    pip install matplotlib
+
+Run:
+    python Main.py
+
+Enjoy :)
