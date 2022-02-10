@@ -1,5 +1,10 @@
 # mohsenlabratory
-How to refrence:
+## How to refrence:
 
-IEEE Format:
-DMLaboratory (2021) Mohsen Hajikarimian [Source code]. https://github.com/mohsenhajikarimian/DMLaboratory.
+### IEEE Format:
+
+ Hajikarimian, M. (2021) DMLaboratory [Source code]. https://github.com/mohsenhajikarimian/DMLaboratory.
+
+### ACM Format:
+
+Hajikarimian, M. 2021. DMLaboratory. https://github.com/mohsenhajikarimian/DMLaboratory.
